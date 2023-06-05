@@ -1,10 +1,10 @@
-# Road Accident Dashboard
+# *Road Accident Dashboard
 This project aims to create a road accident dashboard for the years 2021 and 2022, providing valuable insights and key performance indicators (KPIs) related to road accidents. The dashboard analyzes a dataset containing information about road accidents, casualties, vehicle types, road conditions, and other relevant factors. The data is stored in an Excel file with the extension .xlsx.
 
 ## Dataset Overview
-◾ File Name: Road Accident Dataset.xlsx
-◾ Rows: 307,974
-◾ Fields/Columns: 21
+File Name: Road Accident Dataset.xlsx.
+Rows: 307,974.
+Fields/Columns: 21.
 
 ## Key Performance Indicators (KPIs)
 The road accident dashboard provides the following KPIs and insights:
