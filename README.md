@@ -34,5 +34,4 @@ Public
 Media
 These stakeholders can leverage the dashboard's insights to improve road safety measures, implement appropriate policies, and raise awareness about road accidents.
 
-## Conclusion
 
