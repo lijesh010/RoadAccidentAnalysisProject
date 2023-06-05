@@ -23,15 +23,15 @@ Casualties by Area/Location and Day/Night: Analysis of the relationship between 
 
 ## Stakeholders
 The road accident dashboard is designed to provide insights to the following stakeholders:
-Ministry of Transport
-Road Transport Department
-Police Force
-Emergency Service Department
-Road Safety Corps
-Transport Operators
-Traffic Management Agencies
-Public
-Media
+Ministry of Transport,
+Road Transport Department,
+Police Force,
+Emergency Service Department,
+Road Safety Corps,
+Transport Operators,
+Traffic Management Agencies,
+Public,
+Media.
 These stakeholders can leverage the dashboard's insights to improve road safety measures, implement appropriate policies, and raise awareness about road accidents.
 
 
