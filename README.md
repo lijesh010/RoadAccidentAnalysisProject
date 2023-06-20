@@ -34,4 +34,7 @@ Public,
 Media.
 These stakeholders can leverage the dashboard's insights to improve road safety measures, implement appropriate policies, and raise awareness about road accidents.
 
+## Dashboard
+![Road_accident_data_Dashboard](https://github.com/lijesh010/RoadAccidentProject/assets/131745794/c0b644c5-5c65-4c60-9773-b69ea0ca2df2)
+
 
